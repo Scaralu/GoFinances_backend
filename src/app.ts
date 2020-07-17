@@ -1,5 +1,6 @@
 import 'reflect-metadata';
 import 'dotenv/config';
+import 'multer';
 
 import express, { Request, Response, NextFunction } from 'express';
 import 'express-async-errors';
